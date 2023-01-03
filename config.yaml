@@ -1,6 +1,6 @@
 chatGPTAccountPool:
-  - email: simahao@gmail.com
-    password: e4r5t6y7
-    isGoogleLogin: true
+  - email: simahao@126.com
+    password: Zaq12wsx
+    isGoogleLogin: false
 chatPrivateTiggerKeyword: ""
 openAIProxy: ""
